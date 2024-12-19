@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "176341251",
+      "project_id": "loginform-37794",
+      "storage_bucket": "loginform-37794.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:176341251:android:9f1fac4be5b89988eaa936",
+          "android_client_info": {
+            "package_name": "com.Bustracker.company"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCTc4kRvKezSA556fFx9I5DcIxCrZ23mfw"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
